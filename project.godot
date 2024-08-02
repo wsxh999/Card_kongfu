@@ -12,7 +12,7 @@ config_version=5
 
 config/name="Card_kongfu"
 config/tags=PackedStringArray("project——card_kongfu")
-run/main_scene="res://GDS/main.tscn"
+run/main_scene="res://scene/main.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://resource/icon.svg"
 
